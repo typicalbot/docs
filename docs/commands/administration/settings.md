@@ -3,7 +3,7 @@ command: settings
 level: 0
 ---
 
-# Adcheck
+# Settings
 
 View or customize your servers setting and enable/disable specific features.
 
