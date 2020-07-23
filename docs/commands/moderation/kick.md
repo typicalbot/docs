@@ -13,10 +13,10 @@ Requires 'Kick Members'
 
 ## Usage
 
-`$kick <user>`
-`$kick <user> [reason]`
+ - `$kick <user>`
+ - `$kick <user> [reason]`
 
 ## Examples
 
-`$kick @Xenotater`
-`$kick @Xenotater Shamelessly promoting his YouTube channel`
+ - `$kick @Xenotater`
+ - `$kick @Xenotater Shamelessly promoting his YouTube channel`

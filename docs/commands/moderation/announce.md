@@ -9,10 +9,10 @@ Send an announcement to the announcements channel. Use the flag '-e' before your
 
 ## Usage
 
-`$announce <message>`
-`$announce -e <message>`
+ - `$announce <message>`
+ - `$announce -e <message>`
 
 ## Examples
 
-`$announce Hey everyone! We have some updates!`
-`$announce -e This is an embedded announcement!`
+ - `$announce Hey everyone! We have some updates!`
+ - `$announce -e This is an embedded announcement!`

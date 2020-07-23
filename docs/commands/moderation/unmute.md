@@ -13,9 +13,9 @@ Requires 'Manage Roles'
 
 ## Usage
 
-`$unmute <user>`
-`$unmute <user> [reason]`
+ - `$unmute <user>`
+ - `$unmute <user> [reason]`
 
 ## Examples
 
-`$unmute @Xenotater Agreed to stop spamming`
+ - `$unmute @Xenotater Agreed to stop spamming`

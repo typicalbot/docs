@@ -9,9 +9,9 @@ Warn a member in the server.
 
 ## Usage
 
-`$warn <user>`
-`$warn <user> [reason]`
+ - `$warn <user>`
+ - `$warn <user> [reason]`
 
 ## Examples
 
-`$warn @Xenotater Shamelessly promoting his YouTube channel`
+ - `$warn @Xenotater Shamelessly promoting his YouTube channel`

@@ -13,15 +13,15 @@ Requires 'Manage Roles' and 'Manage Channels'
 
 ## Usage
 
-`$mute <user>`
-`$mute <user> [reason]`
-`$mute <user> [duration]`
-`$mute <user> [duration] [reason]`
-`$mute deny here`
-`$mute deny [channel]`
+ - `$mute <user>`
+ - `$mute <user> [reason]`
+ - `$mute <user> [duration]`
+ - `$mute <user> [duration] [reason]`
+ - `$mute deny here`
+ - `$mute deny [channel]`
 
 ## Examples
 
-`$mute deny here`
-`$mute @Xenotater Spam`
-`$mute @Xenotater 2d`
+ - `$mute deny here`
+ - `$mute @Xenotater Spam`
+ - `$mute @Xenotater 2d`

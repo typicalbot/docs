@@ -13,9 +13,9 @@ Requires 'Move Members'
 
 ## Usage
 
-`$voicekick <user>`
-`$voicekick <user> [reason]`
+ - `$voicekick <user>`
+ - `$voicekick <user> [reason]`
 
 ## Examples
 
-`$voicekick @Xenotater Refuses to fix static microphone`
+ - `$voicekick @Xenotater Refuses to fix static microphone`

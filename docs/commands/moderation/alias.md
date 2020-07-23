@@ -9,11 +9,11 @@ Create an alias for commands.
 
 ## Usage
 
-`$alias list`
-`$alias add <command> <alias>`
-`$alias remove <command> <alias>`
-`$alias clear`
+ - `$alias list`
+ - `$alias add <command> <alias>`
+ - `$alias remove <command> <alias>`
+ - `$alias clear`
 
 ## Examples
 
-`$alias add ban bean`
+ - `$alias add ban bean`

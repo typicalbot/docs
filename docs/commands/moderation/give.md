@@ -13,10 +13,10 @@ Requires 'Manage Roles'
 
 ## Usage
 
-`$give <role>`
+ - `$give <role>`
 
 ## Examples
 
-`$give Member`
-`$give 237711151742320640`
-`$give @Member`
+ - `$give Member`
+ - `$give 237711151742320640`
+ - `$give @Member`

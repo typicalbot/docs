@@ -13,10 +13,10 @@ Requires 'Manage Roles'
 
 ## Usage
 
-`$take <role>`
+ - `$take <role>`
 
 ## Examples
 
-`$take Member`
-`$take 237711151742320640`
-`$take @Member`
+ - `$take Member`
+ - `$take 237711151742320640`
+ - `$take @Member`
