@@ -1,12 +1,13 @@
 ---
-command: serverinfo
+command: server
 level: 0
+category: information
 ---
 
-# Serverinfo
+# Server
 
 Displays the server's information.
 
 ## Usage
 
- - `$serverinfo`
+ - `$server`
