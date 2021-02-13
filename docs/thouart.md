@@ -1,6 +1,7 @@
 ---
 command: thouart
 level: 0
+category: fun
 ---
 
 # Thouart

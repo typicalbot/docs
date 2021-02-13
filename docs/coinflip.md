@@ -1,6 +1,7 @@
 ---
 command: coinflip
 level: 0
+category: fun
 ---
 
 # Coinflip

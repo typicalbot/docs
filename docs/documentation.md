@@ -1,6 +1,7 @@
 ---
 command: documentation
 level: 0
+category: general
 ---
 
 # Documentation

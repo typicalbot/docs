@@ -1,6 +1,7 @@
 ---
 command: nickname
 level: 0
+category: utility
 ---
 
 # Nickname

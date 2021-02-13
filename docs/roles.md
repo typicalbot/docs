@@ -1,6 +1,7 @@
 ---
 command: roles
 level: 0
+category: moderation
 ---
 
 # Roles

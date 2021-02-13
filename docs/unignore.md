@@ -1,6 +1,7 @@
 ---
 command: unignore
 level: 3
+category: moderation
 ---
 
 # Unignore

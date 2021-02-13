@@ -1,6 +1,7 @@
 ---
 command: voicekick
 level: 2
+category: moderation
 ---
 
 # Voicekick

@@ -1,6 +1,7 @@
 ---
 command: warn
 level: 2
+category: moderation
 ---
 
 # Warn

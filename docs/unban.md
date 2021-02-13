@@ -1,6 +1,7 @@
 ---
 command: unban
 level: 2
+category: moderation
 ---
 
 # Unban

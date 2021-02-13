@@ -1,6 +1,7 @@
 ---
 command: unsubscribe
 level: 0
+category: utility
 ---
 
 # Unsubscribe

@@ -1,6 +1,7 @@
 ---
 command: say
 level: 2
+category: moderation
 ---
 
 # Say

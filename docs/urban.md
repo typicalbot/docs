@@ -1,6 +1,7 @@
 ---
 command: urban
 level: 0
+category: utility
 ---
 
 # Urban

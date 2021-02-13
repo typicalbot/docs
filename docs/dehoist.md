@@ -1,6 +1,7 @@
 ---
 command: dehoist
 level: 3
+category: moderation
 ---
 
 # Dehoist

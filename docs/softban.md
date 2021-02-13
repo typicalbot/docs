@@ -1,6 +1,7 @@
 ---
 command: softban
 level: 2
+category: moderation
 ---
 
 # Softban

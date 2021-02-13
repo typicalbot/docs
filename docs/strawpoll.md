@@ -1,6 +1,7 @@
 ---
 command: strawpoll
 level: 0
+category: utility
 ---
 
 # Strawpoll

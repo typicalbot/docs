@@ -1,6 +1,8 @@
 ---
 command: take
 level: 0
+category: moderation
+category: moderation
 ---
 
 # Take

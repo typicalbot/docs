@@ -1,6 +1,7 @@
 ---
 command: pun
 level: 0
+category: fun
 ---
 
 # pun

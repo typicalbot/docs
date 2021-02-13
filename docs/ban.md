@@ -1,6 +1,7 @@
 ---
 command: ban
 level: 2
+category: moderation
 ---
 
 # Ban

@@ -1,6 +1,7 @@
 ---
 command: kick
 level: 2
+category: moderation
 ---
 
 # Kick

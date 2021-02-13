@@ -1,6 +1,7 @@
 ---
 command: bird
 level: 0
+category: animals
 ---
 
 # Bird

@@ -1,6 +1,7 @@
 ---
 command: alias
 level: 3
+category: moderation
 ---
 
 # Alias

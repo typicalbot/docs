@@ -1,6 +1,7 @@
 ---
 command: calculator
 level: 0
+category: utility
 ---
 
 # Calculator

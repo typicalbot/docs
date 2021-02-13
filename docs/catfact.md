@@ -1,6 +1,7 @@
 ---
 command: catfact
 level: 0
+category: animals
 ---
 
 # Catfact

@@ -1,6 +1,7 @@
 ---
 command: 8ball
 level: 0
+category: fun
 ---
 
 # 8ball

@@ -1,6 +1,7 @@
 ---
 command: subscribe
 level: 0
+category: utility
 ---
 
 # Subscribe

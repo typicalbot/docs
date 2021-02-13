@@ -1,6 +1,7 @@
 ---
 command: reason
 level: 2
+category: moderation
 ---
 
 # Reason

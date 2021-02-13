@@ -1,6 +1,7 @@
 ---
 command: unmute
 level: 2
+category: moderation
 ---
 
 # Unmute

@@ -1,6 +1,7 @@
 ---
 command: announce
 level: 3
+category: moderation
 ---
 
 # Announce

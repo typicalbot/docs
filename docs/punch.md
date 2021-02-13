@@ -1,6 +1,7 @@
 ---
 command: punch
 level: 0
+category: roleplay
 ---
 
 # Punch

@@ -1,6 +1,7 @@
 ---
 command: level
 level: 0
+category: utility
 ---
 
 # Level

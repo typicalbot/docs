@@ -1,6 +1,7 @@
 ---
 command: randomuser
 level: 0
+category: utility
 ---
 
 # Randomuser

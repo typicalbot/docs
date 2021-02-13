@@ -1,6 +1,7 @@
 ---
 command: donate
 level: 0
+category: general
 ---
 
 # Donate

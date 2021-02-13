@@ -1,6 +1,7 @@
 ---
 command: yomama
 level: 0
+category: fun
 ---
 
 # Yomama

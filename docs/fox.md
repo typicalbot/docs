@@ -1,6 +1,7 @@
 ---
 command: fox
 level: 0
+category: animals
 ---
 
 # Fox

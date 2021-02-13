@@ -1,6 +1,7 @@
 ---
 command: help
 level: 0
+category: utility
 ---
 
 # Help

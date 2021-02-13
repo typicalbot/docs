@@ -1,6 +1,7 @@
 ---
 command: dice
 level: 0
+category: fun
 ---
 
 # Dice

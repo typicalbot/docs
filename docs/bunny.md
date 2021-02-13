@@ -1,6 +1,7 @@
 ---
 command: bunny
 level: 0
+category: animals
 ---
 
 # Bunny

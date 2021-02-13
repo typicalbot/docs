@@ -1,6 +1,7 @@
 ---
 command: shoot
 level: 0
+category: roleplay
 ---
 
 # Shoot

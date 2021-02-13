@@ -1,6 +1,7 @@
 ---
 command: ping
 level: 0
+category: information
 ---
 
 # Ping

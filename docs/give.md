@@ -1,6 +1,7 @@
 ---
 command: give
 level: 0
+category: moderation
 ---
 
 # Give

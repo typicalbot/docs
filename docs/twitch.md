@@ -1,6 +1,7 @@
 ---
 command: twitch
 level: 0
+category: utility
 ---
 
 # Twitch

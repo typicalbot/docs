@@ -1,6 +1,7 @@
 ---
 command: duck
 level: 0
+category: animals
 ---
 
 # Duck

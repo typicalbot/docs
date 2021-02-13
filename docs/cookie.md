@@ -1,6 +1,7 @@
 ---
 command: cookie
 level: 0
+category: roleplay
 ---
 
 # Cookie

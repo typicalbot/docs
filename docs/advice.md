@@ -1,6 +1,7 @@
 ---
 command: advice
 level: 0
+category: fun
 ---
 
 # Advice

@@ -1,6 +1,7 @@
 ---
 command: hug
 level: 0
+category: roleplay
 ---
 
 # Hug

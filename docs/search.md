@@ -1,6 +1,7 @@
 ---
 command: Search
 level: 0
+category: utility
 ---
 
 # Search

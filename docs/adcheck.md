@@ -1,6 +1,7 @@
 ---
 command: adcheck
 level: 2
+category: moderation
 ---
 
 # Adcheck

@@ -1,6 +1,7 @@
 ---
 command: dog
 level: 0
+category: animals
 ---
 
 # Dog

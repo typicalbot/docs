@@ -1,6 +1,7 @@
 ---
 command: follow
 level: 0
+category: general
 ---
 
 # Follow

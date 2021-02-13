@@ -1,6 +1,7 @@
 ---
 command: panda
 level: 0
+category: animals
 ---
 
 # Panda

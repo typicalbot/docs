@@ -1,6 +1,7 @@
 ---
 command: stab
 level: 0
+category: roleplay
 ---
 
 # Stab

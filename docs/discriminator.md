@@ -1,6 +1,7 @@
 ---
 command: discriminator
 level: 0
+category: utility
 ---
 
 # Discriminator

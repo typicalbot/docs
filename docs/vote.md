@@ -1,6 +1,7 @@
 ---
 command: vote
 level: 0
+category: utility
 ---
 
 # Vote

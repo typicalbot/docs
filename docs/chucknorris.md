@@ -1,6 +1,7 @@
 ---
 command: chucknorris
 level: 0
+category: fun
 ---
 
 # Chucknorris

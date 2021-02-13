@@ -1,6 +1,7 @@
 ---
 command: invite
 level: 0
+category: general
 ---
 
 # Invite

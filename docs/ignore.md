@@ -1,6 +1,7 @@
 ---
 command: ignore
 level: 3
+category: moderation
 ---
 
 # Ignore

@@ -1,6 +1,7 @@
 ---
 command: purge
 level: 2
+category: moderation
 ---
 
 # Purge

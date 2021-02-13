@@ -1,6 +1,7 @@
 ---
 command: mute
 level: 2
+category: moderation
 ---
 
 # Mute
