@@ -1,13 +1,13 @@
 ---
-command: urban
+command: define
 level: 0
-category: utility
+category: search
 ---
 
-# Urban
+# Define
 
 Grabs the definition from Urban Dictionary for the specified word.
 
 ## Usage
 
- - `$urban [query]`
+ - `$define [query]`
