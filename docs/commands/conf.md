@@ -1,6 +1,6 @@
 ---
 command: conf
-level: 0
+level: 3
 category: administration
 ---
 
